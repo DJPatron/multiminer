@@ -1,4 +1,4 @@
-# multiminer
+# multiminer (argon2d16000 adaptation): work in progress
 
 Dev Fee
 -------
